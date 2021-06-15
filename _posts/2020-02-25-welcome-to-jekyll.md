@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Supun Kavinda
+author: Thanmayee
 title: Traboda
 ---
 # About Traboda
