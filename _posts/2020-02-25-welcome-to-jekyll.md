@@ -1,24 +1,12 @@
 ---
 layout: post
 author: Supun Kavinda
+title: Traboda
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+# About Traboda
+Recently I came across the TRABODA site. The website's interface is impressive and I feel it is one of the best sites to solve CTF's.
+It is very fun working on this website. I got to know that the website is maintained by student's like me which was inspiring.
+I faced an issue while I was logging but when I clicked on LOGIN WITH GOOGLE it is doesn't display the google accounts instead displayed an error.
+Except the above menioned issue everthying looks fine with the website. 
 
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
